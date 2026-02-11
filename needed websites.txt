@@ -1,0 +1,27 @@
+
+🧠 Useful Websites for 3D Model from Video + QR Viewer Web App
+
+1. https://www.8thwall.com/ - For AR/WebXR integrations (Free trial available)
+2. https://colmap.github.io/ - Photogrammetry tool used for 3D reconstruction
+3. https://threejs.org/ - 3D rendering in browser (powerful + free)
+4. https://modelviewer.dev/ - Simple web-based 3D + AR viewer
+5. https://qr-code-generator.com/ - Create QR codes
+6. https://www.qrcode-monkey.com/ - Customizable QR code generator
+7. https://render.com/ - Free backend deployment
+8. https://vercel.com/ - Free frontend hosting
+9. https://railway.app/ - Backend deployment (supports Node.js + Python)
+10. https://sketchfab.com/ - View/share/download 3D models online
+11. https://poly.cam/ - For reference/understanding mobile 3D scanning
+12. https://github.com/ - Code repo + CI/CD hosting
+13. https://opencv.org/ - Computer vision for video frame extraction
+14. https://pypi.org/ - Find Python packages (like COLMAP wrappers)
+15. https://blender.org/ - 3D model editing (Free + optional)
+16. https://netlify.com/ - Alternate frontend hosting
+17. https://replit.com/ - For Python + Node.js quick testing
+18. https://www.tinkercad.com/ - Online 3D model editor (good for testing .obj)
+19. https://gltf-viewer.donmccurdy.com/ - Test/view .glb, .gltf files
+20. https://autodraw.com/ - Use if you need quick icons/UI elements
+
+done
+
+
