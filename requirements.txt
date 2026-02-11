@@ -1,0 +1,4 @@
+Flask
+trimesh
+scipy
+numpy

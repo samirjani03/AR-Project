@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo to AR 3D</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📸 Photo to AR Maker</h1>
+        <p>Upload 10-20 photos of an object to turn it into an AR Model.</p>
+        
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="images" multiple accept="image/*" required>
+            <br><br>
+            <button type="submit" class="btn">🚀 Generate 3D Model</button>
+        </form>
+        <p class="note">Note: Processing takes time. Please check the server terminal for progress.</p>
+    </div>
+</body>
+</html>
