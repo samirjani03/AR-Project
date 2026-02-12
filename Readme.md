@@ -213,6 +213,3 @@ Check terminal logs in VS Code.
 COLMAP errors will appear there.
 
 ---
-
-Tell me the level you want.
-```
